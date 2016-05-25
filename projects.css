@@ -1,0 +1,89 @@
+body{
+	
+/*background-image: linear-gradient(
+      to right,
+      green,
+      yellow 63%
+    );*/
+/*background: #204c39;*/
+/*width:1332px;
+*/
+background-image:url("img/Binary.jpg");
+width:100%;
+}
+
+ul span{
+	
+	display:inline;
+	margin:167px;
+  font-size:28px;
+
+}
+
+ul nav{
+background-color: lightblue;
+margin: 20px -83px 38px -46px;
+
+}
+
+span a{
+	text-decoration: none;
+  font-size: 30px;
+  text-shadow: 0px 1px green;
+}
+
+
+
+.match{
+  cursor: pointer;
+    font-family: 'Arial', cursive;
+    color: #fff;
+    /* text-shadow: 2px 4px red; */
+    margin: 25px 894px 121px 22px;
+    position:relative;
+}
+
+
+ .pokemon{
+      cursor: pointer;
+    font-family: 'Arial', cursive;
+    color: lightgreen;
+    margin-left: 31px;
+}
+
+.play{
+  margin-left:570px;
+  position:relative;
+  color:#ffd700;
+}
+
+#poke-play{
+  margin-left:570px;
+  position:relative;
+  color:#ffd700;
+}
+
+.mario-img{
+
+}
+
+.pokemon-img{
+  margin-left:268px;
+}
+
+.more{
+     text-align: center;
+    color: gold;
+    position: relative;
+    top: 69px;
+    right: 433px;
+    font-family:'Arial', cursive;    
+}
+
+
+a{
+  text-decoration:none;
+}
+
+
+

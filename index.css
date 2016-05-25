@@ -1,0 +1,98 @@
+/*body{
+	
+background-image: linear-gradient(
+      to right,
+      green,
+      yellow 85%
+    );
+
+}
+*/
+
+body{
+	background-image:url("img/Binary.jpg");
+	width:100%;
+}
+
+
+
+ul span{
+	
+	display:inline;
+	margin:184px;
+	font-size:30px;
+	text-shadow: 0px 1px green;
+
+}
+
+ul nav{
+	background-color: lightblue;
+	margin: 20px -83px 38px -46px;
+
+}
+
+
+
+
+li a{
+	color: #fff;
+    position: relative;
+    top: 40px;
+    right: 1px;
+    font-size:28px;
+}
+
+a{
+	text-decoration:none;
+
+}
+
+.name{
+	font-size: 58px;
+    /* text-shadow: 3px 3px 13px #fff; */
+    position: relative;
+    top: 52px;
+    color: #fff;
+    right: -2px;
+    /* margin: 35px 735px 26px 13px; */
+}
+
+.dev{
+	font-size: 58px;
+    color: #fff;
+    /* text-shadow: 3px 3px 13px #fff; */
+    position: relative;
+    top: 42px;
+    right: -10px;
+    
+
+}
+
+canvas#q {
+    margin: -215px 47px 30px 43px;
+    display:block;
+}
+
+
+ul li {
+	color:#fff;
+	list-style:none;
+	margin-left:-20px;
+	display:inline-block;
+	margin-top:72px;
+}
+
+
+#contact{
+	/*background:#000;
+	margin: 30px -83px 27px -8px;*/
+	
+}
+
+
+
+
+
+
+
+

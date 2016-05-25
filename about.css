@@ -1,0 +1,93 @@
+body{
+	
+/*background-image: linear-gradient(
+      to right,
+      green,
+      yellow 63%
+    );*/
+/*background: #204c39;*/
+width:100%;
+background-image:url("img/Binary.jpg");
+
+}
+
+ul span{
+	
+	display:inline;
+	margin:184px;
+
+}
+
+ul nav{
+	background-color: lightblue;
+	margin: 20px -117px 38px -46px;
+
+}
+
+span a{
+	text-decoration: none;
+    /* color: red; */
+    /* font-size: 28px; */
+    display: inline;
+    /* margin: 184px; */
+    font-size: 30px;
+    text-shadow: 0px 1px green;
+}
+
+h1{
+	text-align:center;
+	font-size:58px;
+	text-shadow: 3px 3px 13px #fff;
+}
+
+#interests {
+	text-align:center;
+	font-family: 'Arial';
+    text-shadow: 3px 3px 13px #fff;
+}
+
+.int{
+	
+}
+
+.box{
+	width: 871px;
+    height: 234px;
+   /* background-color: grey;*/
+    background-image: linear-gradient(
+      to right,
+      silver,
+      gold 63%
+    );
+    margin: 0 auto;
+    border: 6px dashed #fff;
+    position:relative;
+}
+
+a{
+	text-decoration:none;
+	color:#000;
+}
+
+h1 .accomplishments{
+	font-family:'Arial';
+}
+
+.click-here{
+	text-align:center;
+	font-size:77px;
+	position:relative;
+	cursor:pointer;
+	text-decoration:underline;
+}
+.about-me{
+	font-family:'Arial';
+	text-shadow: 3px 3px 13px #fff;
+	padding-left:48px;
+}
+
+#click{
+	position:relative;
+}
+
+
